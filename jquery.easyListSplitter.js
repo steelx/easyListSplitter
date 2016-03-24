@@ -22,9 +22,11 @@
 	
  */
 
-var j = 1;
+
  
 (function(jQuery) {
+	var j = 1;
+	
 	jQuery.fn.easyListSplitter = function(options) {
 	
 	var defaults = {			
